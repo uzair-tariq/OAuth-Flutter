@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "697069975063",
+    "firebase_url": "https://even-dragon-234510.firebaseio.com",
+    "project_id": "even-dragon-234510",
+    "storage_bucket": "even-dragon-234510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697069975063:android:8db4cc69e35ee56a",
+        "android_client_info": {
+          "package_name": "com.example.oauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697069975063-40pu61kvfg4vuvsu36g2u7q0t9nrs2ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oauth",
+            "certificate_hash": "ff113ccf8afdf08a9ee153c0836621f67d81a25a"
+          }
+        },
+        {
+          "client_id": "697069975063-talj9mh3g9u3g0ft0q7rt96ffrseqpte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXJ_-7m49FSPBDJQWOcmyP_U-yuiiL4DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697069975063-talj9mh3g9u3g0ft0q7rt96ffrseqpte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
