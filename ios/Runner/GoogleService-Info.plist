@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>697069975063-s9gb7522h387ncfon98ptj2n1i0tmbt7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.697069975063-s9gb7522h387ncfon98ptj2n1i0tmbt7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>697069975063-40pu61kvfg4vuvsu36g2u7q0t9nrs2ml.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBFM3z-YGDyQF5l40VAEQAK75yEPPOz5vs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>697069975063</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.binexsolutions.projectgoose</string>
+	<key>PROJECT_ID</key>
+	<string>even-dragon-234510</string>
+	<key>STORAGE_BUCKET</key>
+	<string>even-dragon-234510.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:697069975063:ios:290453dd32214e1d</string>
+	<key>DATABASE_URL</key>
+	<string>https://even-dragon-234510.firebaseio.com</string>
+</dict>
+</plist>
