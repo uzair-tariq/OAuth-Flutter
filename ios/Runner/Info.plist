@@ -21,6 +21,34 @@
 
 <!-- Google Authentication -->
 
+<!-- Facebook Authentication -->
+
+
+<key>CFBundleURLTypes</key>
+<array>
+    <dict>
+        <key>CFBundleURLSchemes</key>
+        <array>
+            <string>fb351945695699380</string>
+        </array>
+    </dict>
+</array>
+<key>FacebookAppID</key>
+<string>351945695699380</string>
+<key>FacebookDisplayName</key>
+<string>ProjectGoose</string>
+
+
+<key>LSApplicationQueriesSchemes</key>
+<array>
+    <string>fbapi</string>
+    <string>fb-messenger-share-api</string>
+    <string>fbauth2</string>
+    <string>fbshareextension</string>
+</array>
+
+<!-- Facebook Authentication -->
+
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
